@@ -12,7 +12,7 @@
 | 週次 | 正課 | 實習課 | 正課教學內容                                                                | 實習課內容                      | 課程範圍                                               | 教材資源                                 |
 | -- | --------- | ---------- | --------------------------------------------------------------------- | -------------------------- | -------------------------------------------------- | ------------------------------------ |
 | 1  | 2/24      | 2/26       | **Eclipse and course_Demo**                                           | **Unit1/** <br>00,01       | 安裝 FCPS JKarel 的程式 <br>Lab00~Lab01             | [course_0](./asset/md/course_0.md)   |
-| 2  | 3/3       | 3/5        | **Unit1** <br> §1 Classes and Objects <br> §2 Inheritance and Methods | 02,03,04,05                | Lab02~Lab05                                        | [course_1](./asset/md/course_1.md)   |
+| 2  | 3/3       | 3/5        | **Unit1** <br> §1 Classes and Objects <br> | 02,03,04,05                | Lab02~Lab05                                        | [course_1](./asset/md/course_1.md)   |
 | 3  | 3/10      | 3/12       | §2 Inheritance and Methods                                            | 02,03,04,05                | Lab02~Lab05                                        | [course_1](./asset/md/course_1.md)   |
 | 4  | 3/17      | 3/19       | §3 Algorithms and Polymorphism                                        | 06,07,08,09                | Lab06~Lab09                                        | [course_2](./asset/md/course_2.md)   |
 | 5  | 3/24      | 3/26       | §4 Abstract Classes and Interfaces                                    | 10,11,12,14,15,16          | Lab10~12; Lab14~16 <br> EclipseDebug               | [course_3](./asset/md/course_3.md)   |
