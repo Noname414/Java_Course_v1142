@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "SetupFiles/karel2_c.jar",
+        "SetupFiles/xercesImpl.jar"
+    ],
+    "java.project.sourcePaths": [
+        "Unit1/src",
+        "Unit2/src",
+        "Unit3/src",
+        "Unit4/src",
+        "Unit5/src",
+    ]
+}
