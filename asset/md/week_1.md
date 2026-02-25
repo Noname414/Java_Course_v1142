@@ -1,4 +1,4 @@
-# Course 0
+# Week_01
 
 ## Eclipse and Course Demo
    * [pdf教學](../docs/Java、Eclipse和JKarel八成品安裝教學.pdf)
