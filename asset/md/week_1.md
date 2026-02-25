@@ -1,7 +1,9 @@
 # Week_01
 
 ## Eclipse and Course Demo
-   * [pdf教學](../docs/Java、Eclipse和JKarel八成品安裝教學.pdf)
+
+   * [eclipse pdf教學](../docs/Java_eclipse.pdf)
+   * [vscode  pdf教學](../docs/Java_vscode.pdf)
    * Java、Eclipse和JKarel八成品安裝
       * 影片：https://youtu.be/SbAx0jtsALc
    * FCPS Unit1 Lab00~Lab01
